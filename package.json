@@ -1,5 +1,5 @@
 {
-  "name": "Weather Forecast",
+  "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "City Weather Forecast App",
   "main": "index.js",

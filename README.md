@@ -2,6 +2,7 @@
 
 React/Redux application to get 5 day weather forecast for US cities.
 
+
 ##Getting Started
 
 > git clone https://github.com/etchoi/city_weather
