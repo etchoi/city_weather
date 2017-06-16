@@ -1,6 +1,6 @@
 # Weather Forecast
 
-React/Redux application to get 5 day weather forecast for US cities.  
+Receive 5 day weather forecast for your favorite US cities.  
 
 
 ## Getting Started
